@@ -57,7 +57,7 @@ Il suffit de télécharger le fichier **.exe**, de l'installer, puis de **l'exé
 
 👨‍💻 **Créé par Shitzu**  
 Pour toute question ou besoin d'aide, rejoins notre **Discord** :  
-[Shitzu Community🫧](https://discord.gg/qtw6pYhHjF) 💬
+[Shitzu Community](https://discord.gg/qtw6pYhHjF) 🫧
 
 ---
 
